@@ -1,5 +1,5 @@
 # Trybe
-Este repositório contém todas as atividades de aprendizagem desenvolvidas por Pedro Henrique Pires do Nascimento enquanto estudava na Trybe :rocket:
+Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Pedro Henrique Pires do Nascimento](https://www.linkedin.com/in/pedro-henrique-pires-8342b2161/) enquanto estudava na Trybe :rocket:
 
 "A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho."
 
