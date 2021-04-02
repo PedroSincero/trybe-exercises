@@ -11,4 +11,4 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] Unix & Bash - Part 1
 - [x] Unix & Bash - Part 2
 
-#### Bloco 02: Git, GitHub e Internet
+##### Bloco 02: Git, GitHub e Internet
