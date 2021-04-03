@@ -50,8 +50,15 @@ n = 5
 ```
 ##### Exercicio Bônus 1(exBonus1.js)
 
+Por último, façamos com que a variável seja incrementada com o valor correspondente a cada loop;
 Faça uma pirâmide com n asteriscos de base, que seja vazia no meio.
-
+n = 7
+```
+   *
+  * *
+ *   *
+*******
+```
 ##### Exercicio Bônus 2(exBonus2.js)
 
 Faça um programa que diz se um número definido numa variável é primo ou não.
