@@ -17,7 +17,7 @@ Aqui você vai modificar os elementos já existentes utilizando apenas as funç�
 * Crie uma função que mude a cor do quadrado vermelho para branco.
 ##### Exercicio 4(ex4.js)
 
-* Crie uma função que corrija o texto do <h1> tag .
+* Crie uma função que corrija o texto do tag ```<h1>```.
 ##### Exercicio 5(ex5.js)
 
 * Crie uma função que modifique todo o texto da tag <p> para maiúsculo.
