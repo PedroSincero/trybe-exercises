@@ -11,4 +11,10 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] Unix & Bash - Part 1
 - [x] Unix & Bash - Part 2
 
-##### Bloco 02: Git, GitHub e Internet :white_check_mark:
+##### Bloco 03: Introdução à HTML e CSS :white_check_mark:
+- [x] HTML & CSS - Seletores e Posicionamento
+- [x] HTML Semântico
+
+##### Bloco 04: Introdução à JavaScript e Lógica de Programação :white_check_mark:
+- [x] JavaScript - Primeiros Passos
+- [x] JavaScript - Array e loop For
