@@ -21,33 +21,33 @@ Para o segundo exercício, faça o mesmo que antes, mas que imprima um triângul
 
 Por exemplo:
 n = 5
-
+```
 *
 **
 ***
 ****
 *****
-
+```
 ##### Exercicio 3(ex3.js)
 
 Agora inverta o lado do triângulo. Por exemplo:
 n = 5
-
+```
     *
    **
   ***
  ****
 *****
-
+```
 ##### Exercicio 4(ex4.js)
 
 Por fim, faça uma pirâmide com n asteriscos de base:
 n = 5
-
+```
   *
  ***
 *****
-
+```
 ##### Exercicio Bônus 1(exBonus1.js)
 
 Faça uma pirâmide com n asteriscos de base, que seja vazia no meio.
