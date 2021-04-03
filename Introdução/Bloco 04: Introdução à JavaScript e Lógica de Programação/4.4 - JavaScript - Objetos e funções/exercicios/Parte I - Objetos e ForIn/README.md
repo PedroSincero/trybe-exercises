@@ -156,4 +156,6 @@ Quando tiver finalizado o exercício clique em TEST para verificar, com testes s
 Passando nesses testes clique em ATTEMPT , ao fazer isso seu código passará por todos os testes existentes para validação da solução.
 Caso sua solução esteja correta o botão SUBMIT ficará disponível, clique nele para submeter sua resposta, caso contrário volte ao seu código e veja o que ainda não está satisfazendo o que se é pedido, repita esse processo até que sua solução esteja correta.
 
-CodeWars - Desafio 16 + 8 = 214
+* CodeWars - Desafio 16 + 8 = 214 ;
+* Esse desafio irá exigir um pouco de conhecimento sobre alguns métodos do JavaScript, para isso pesquise quando for necessário e caso surja alguma dúvida peça ajuda no Slack .
+* Dúvidas em como fazer uma boa pesquisa? Sem problemas! Acesse esse conteúdo sobre [como pesquisar como uma pessoa desenvolvedora](https://course.betrybe.com//real-life-engineer/how-to-search-like-a-dev.md) .
