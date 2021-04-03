@@ -150,7 +150,7 @@ Exemplo: IX = 10 - 1 = 9.
 
 ##### Exercicio Bônus 2(exBonus2.js)
 
-Para o próximo exercício você irá precisar ter uma conta no CodeWars , para entender como fazê-lo acesse esse o [conteúdo](https://app.betrybe.com/course/real-life-engineer/code-wars)que fizemos sobre isso.
+Para o próximo exercício você irá precisar ter uma conta no CodeWars , para entender como fazê-lo acesse esse o [conteúdo](https://app.betrybe.com/course/real-life-engineer/code-wars) que fizemos sobre isso.
 Após seguir os passos para registro acesse o desafio proposto e então clique em TRAIN , você então será redirecionado para a página onde o desafio deve ser feito.
 Quando tiver finalizado o exercício clique em TEST para verificar, com testes simples, se sua solução satisfaz o que foi pedido. 
 Passando nesses testes clique em ATTEMPT , ao fazer isso seu código passará por todos os testes existentes para validação da solução.
