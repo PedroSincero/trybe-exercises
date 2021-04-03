@@ -21,7 +21,7 @@ Aqui você vai modificar os elementos já existentes utilizando apenas as funç�
  
 ##### Exercicio 4(ex4.js)
 
-Crie uma função que corrija o texto da tag <h1>.
+* Crie uma função que corrija o texto da tag <h1>.
 
 ##### Exercicio 5(ex5.js)
 
