@@ -1,6 +1,3 @@
-// Escreva um programa que defina três números em variáveis no seu começo e retorne true se pelo menos uma das três for par. Caso contrário, ele deve retornar false .
-
-
 let a = 1;
 let b = 3;
 let c = 5;

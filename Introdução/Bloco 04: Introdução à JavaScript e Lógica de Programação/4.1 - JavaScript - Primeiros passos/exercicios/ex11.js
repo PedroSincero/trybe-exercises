@@ -1,4 +1,3 @@
-
 let aliquotINSS;
 let aliquotIR;
 
