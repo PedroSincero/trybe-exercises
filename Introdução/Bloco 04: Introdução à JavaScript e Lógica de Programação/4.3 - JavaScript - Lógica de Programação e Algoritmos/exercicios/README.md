@@ -7,12 +7,13 @@ Para o primeiro exercício de hoje, faça um programa que, dado um valor n qualq
 Por exemplo:
 
 n = 5
-`` `*****
+```
 *****
 *****
 *****
 *****
-`` `
+*****
+```
 
 ##### Exercicio 2(ex2.js)
 
