@@ -45,3 +45,9 @@
   * Campo obrigatório
 
 3. Logo abaixo do formulário, crie um botão que:
+  
+  * Chame uma função JavaScript e interrompa o fluxo automático do form utilizando o [preventDefault()](https://developer.mozilla.org/pt-BR/docs/Web/API/Event/preventDefault) .
+  * Execute as validações que foram pedidas ao longo da montagem do formulário.
+  * Monte uma ```<div>``` com o consolidado dos dados que foram inseridos no formulário.
+
+
