@@ -1,0 +1,10 @@
+  .logo-container {
+    display: flex;
+    flex-basis: 268px;
+    justify-content: center;
+  }
+  
+  .menu-container {
+    display: flex;
+    flex-basis: 500px;
+  }
