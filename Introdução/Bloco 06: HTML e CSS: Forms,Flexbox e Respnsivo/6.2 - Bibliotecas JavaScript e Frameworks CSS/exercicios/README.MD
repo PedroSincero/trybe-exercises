@@ -10,4 +10,4 @@
 
 3. Adicione uma biblioteca **JavaScript** de validações ao formulário que você construiu na última aula. Utilize essa biblioteca para substituir as validações que você fez manualmente.
 
-* Sugestões: [Just-validate](https://github.com/horprogs/Just-validate) e [popup-validation](https://github.com/AntonLapshin/popup-validation)
+* Sugestões: [Just-validate](https://github.com/horprogs/Just-validate) e [popup-validation](https://github.com/AntonLapshin/popup-validation) .
