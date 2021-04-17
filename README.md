@@ -26,3 +26,10 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] JavaScript - Trabalhando com elementos
 - [x] JavaScript - Eventos
 - [x] JavaScript - Web Storage
+
+##### Bloco 06: HTML e CSS: Forms, Flexbox e Responsivo :white_check_mark:
+- [x] HTML & CSS - Forms
+- [x] Bibliotecas JavaScript e Frameworks CSS
+- [x] CSS Flexbox - Part 1
+- [x] CSS Flexbox - Part 2 
+- [x] CSS Responsivo - Mobile First
