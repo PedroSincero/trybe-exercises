@@ -1,4 +1,4 @@
-# Exercicio 1(ex1.js)
+# Exercicio 1(exercise1.js & ecercise1.css)
 
 Comece o exercício analisando a página em uma tela de tamanho pequeno, para simular como ela pode parecer em um dispositivo móvel (você pode usar o Chrome para isso, veja no detalhe nos **Recursos adicionais** ).
 Agora você vai ajustar o CSS para melhorar a visualização da página.
@@ -37,7 +37,7 @@ Agora, você vai criar outro breakpoint para telas grandes. Redimensione sua tel
   * Ajuste as margens da página;
   * Adicione a propriedade ```max-width``` à página, para garantir que a largura das linhas não fique muito grande.
 
-# Exercicio 2(ex2.js)
+# Exercicio 2(exercise2.js & ecercise2.css)
 
 Utilizando a abordagem mobile first e media queries , crie três versões de layout diferentes para essa página . Cada layout deve corresponder a um tamanho diferente de página (pequeno, médio e grande) .
 
@@ -49,7 +49,7 @@ Para fazer isso de forma adequada, você deve prestar atenção no conteúdo da 
  * O que fazer com as informações do autor em cada tamanho de tela?
 Talvez você precise alterar o HTML um pouco, adicionando elementos para facilitar a estilização, ou talvez mudando um bloco de lugar dentro da página.
 
-# Exercicio 3(ex3.js)
+# Exercicio 3(exercise3.js & ecercise3.css)
 
 O objetivo deste exercício é usar media queries para fazer a página acima parecer diferente na hora da impressão e em diferentes tamanhos de tela.
 
