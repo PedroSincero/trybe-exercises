@@ -7,21 +7,21 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 
 ## Introdução - Desenvolvimento Web :red_circle:
 
-##### Bloco 1: Introdução - Unix & Shell :white_check_mark:
+##### Bloco 1: Introdução - Unix & Shell ✔️
 - [x] Unix & Bash - Part 1
 - [x] Unix & Bash - Part 2
 
-##### Bloco 03: Introdução à HTML e CSS :white_check_mark:
+##### Bloco 03: Introdução à HTML e CSS ✔️
 - [x] HTML & CSS - Seletores e Posicionamento
 - [x] HTML Semântico
 
-##### Bloco 04: Introdução à JavaScript e Lógica de Programação :white_check_mark:
+##### Bloco 04: Introdução à JavaScript e Lógica de Programação ✔️
 - [x] JavaScript - Primeiros Passos
 - [x] JavaScript - Array e loop For
 - [x] JavaScript - Lógica de Programação e Algoritmos
 - [x] JavaScript - Objetos e Funções
 
-##### Bloco 05: JavaScript - DOM, Eventos e Web Storage :white_check_mark:
+##### Bloco 05: JavaScript - DOM, Eventos e Web Storage ✔️
 - [x] JavaScript - DOM e seletores
 - [x] JavaScript - Trabalhando com elementos
 - [x] JavaScript - Eventos
