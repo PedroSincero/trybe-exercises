@@ -2,12 +2,15 @@ const removeBebida = require('./removeSabor');
 
 describe('Remove sabor de bebida', () => {
     it('Remover agua', () => {
-        expect(removeBebida()).toEqual();
+        const bebidas = ['coca-cola', 'sukita', 'agua', 'garapa', 'suco de laranja', 'groselha'];
+        expect(['coca-cola', 'sukita', 'garapa', 'suco de laranja', 'groselha']).toEqual(removeBebida(bebidas, 'agua'));
     });
     it('Remover garapa', () => {
-        expect(removeBebida()).toEqual();
+        const bebidas = ['coca-cola', 'sukita', 'agua', 'garapa', 'suco de laranja', 'groselha'];
+        expect(['coca-cola', 'sukita', 'agua', 'suco de laranja', 'groselha']).toEqual(removeBebida(bebidas, 'garapa'));
     });
     it('Remover groselha caso exista', () => {
-        expect(removeBebida()).toEqual();
+        const bebidas = ['coca-cola', 'sukita', 'agua', 'garapa', 'suco de laranja', 'groselha'];
+        expect(removeBebida(bebidas, 'groselha')).not.toContain('groselha');
     });
 });
