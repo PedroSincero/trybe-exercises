@@ -35,7 +35,6 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] CSS Responsivo - Mobile First
 
 ##### Bloco 07: HTML e CSS: Forms, Flexbox e Responsivo ✔️
-
 - []
 - []
 - []
