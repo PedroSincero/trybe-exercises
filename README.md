@@ -35,8 +35,22 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] CSS Responsivo - Mobile First
 
 ##### Bloco 07: HTML e CSS: Forms, Flexbox e Responsivo ✔️
-- [x] teste bib
-- [ ] testeeee
-- []
-- []
- 
+- [x] JavaScript ES6 - let, const, arrow functions e template literals
+- [x] JavaScript ES6 - Objetos
+- [x] Testes unitários em JavaScript
+
+##### Bloco 08: Higher Order Functions do JavaScript ES6 ✔️
+- [x] JavaScript ES6 - Introdução a Higher Order Functions
+- [x] JavaScript ES6 - Higher Order Functions:  forEach, find, some, every, sort
+- [x] JavaScript ES6 - Higher Order Functions: map e filter
+- [x] JavaScript ES6 - Higher Order Functions: reduce
+- [x] JavaScript ES6 - spread operator, parãmetro rest, destructuring e mais
+
+##### Bloco 09: JavaScript Assíncronos e Promises ✔️
+- [x] JavaScript Assíncrono e Callbacks
+- [x] JavaScript Promises
+
+##### Bloco 10: JavaScript Assíncronos e Promises 📝
+- [ ] Primeiros passos no Jest
+- [ ] Testes Assíncronos
+- [ ] Jest - Simulando comportamentos
