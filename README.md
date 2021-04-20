@@ -5,7 +5,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 
 O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
 
-## Introdução - Desenvolvimento Web :red_circle:
+## Introdução - Desenvolvimento Web 📝
 
 ##### Bloco 1: Introdução - Unix & Shell ✔️
 - [x] Unix & Bash - Part 1
@@ -35,3 +35,6 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] CSS Responsivo - Mobile First
 
 ##### Bloco 07: HTML e CSS: Forms, Flexbox e Responsivo ✔️
+
+- ☑️
+  [] 
