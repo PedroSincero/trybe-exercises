@@ -1,4 +1,4 @@
-## Exercício (ex1.js)
+## Exercício (ex1.js & ex1.test.js)
 
 A função sum(a, b) retorna a soma do parâmetro a com o b
 
