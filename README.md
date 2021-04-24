@@ -5,7 +5,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 
 O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
 
-## Introdução - Desenvolvimento Web 📝
+## Introdução - Desenvolvimento Web DONE ✔️
 
 ##### Bloco 1: Introdução - Unix & Shell ✔️
 - [x] Unix & Bash - Part 1
@@ -50,7 +50,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] JavaScript Assíncrono e Callbacks
 - [x] JavaScript Promises
 
-##### Bloco 10: JavaScript Assíncronos e Promises 📝
+##### Bloco 10: JavaScript Assíncronos e Promises ✔️
 - [x] Primeiros passos no Jest
-- [ ] Testes Assíncronos
-- [ ] Jest - Simulando comportamentos
+- [x] Testes Assíncronos
+- [x] Jest - Simulando comportamentos
