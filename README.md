@@ -51,6 +51,6 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] JavaScript Promises
 
 ##### Bloco 10: JavaScript Assíncronos e Promises 📝
-- [ ] Primeiros passos no Jest
+- [x] Primeiros passos no Jest
 - [ ] Testes Assíncronos
 - [ ] Jest - Simulando comportamentos
