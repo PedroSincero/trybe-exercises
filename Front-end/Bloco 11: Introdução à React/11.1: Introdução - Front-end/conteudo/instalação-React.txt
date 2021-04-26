@@ -1,0 +1,15 @@
+Como o create-react-app é um pacote que a única coisa que faz é criar todos os arquivos necessários para termos um app React, não rodamos ele mais de uma vez por projeto, nem precisamos do pacote instalado em nossas máquinas, por isso SEMPRE executamos ele com o npx e não com o npm .
+Antes de iniciarmos o conteúdo vamos testar se temos o npm e o npx funcionando corretamente? Para isso, vamos criar uma pasta, em qualquer lugar, e vamos acessá-la através do terminal. Uma vez que estamos dentro da pasta, no terminal, vamos executar o comando abaixo:
+
+>> npx create-react-app testando-meu-computador
+
+Em seguida acesse a pasta:
+
+>>cd testando-meu-computador
+
+
+Para finalizarmos os testes, vamos utilizar os comandos que estão sendo sugeridos no final do tutorial (certifique-se de que está dentro da pasta que rodou o comando npx ):
+
+>>  npm start
+
+https://pt-br.reactjs.org/
