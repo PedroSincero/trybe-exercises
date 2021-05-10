@@ -1,0 +1,9 @@
+Os componentes React , assim como os seres vivos, possuem um ciclo de vida. No caso do React, o ciclo é dividido em 4 etapas. São elas:
+
+Inicialização - quando o componente recebe as props e os estados;
+
+Montagem - quando o componente é inserido no DOM;
+
+Atualização - quando os props ou estados do componente são alterados;
+
+Desmontagem - quando o componente morre 🧟‍♂️, sumindo do DOM.
