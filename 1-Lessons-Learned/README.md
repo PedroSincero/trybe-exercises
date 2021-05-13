@@ -6,7 +6,7 @@
 * Utilizar _HTML_ semântico para tornar sua página mais acessível e melhor ranqueada.
 * Utilizar _CSS_ para adicionar estilo e posicionar elementos.
 
-# Desafios
+# Requisitos do projeto:
 
 ### 1. Adicione uma cor de fundo específica para a página
 

@@ -13,7 +13,7 @@
 - Utilizar o comando for/in ;
 - Utilizar funções para organizar e estruturar o seu código;
 
-# Desafios
+# Requisitos do projeto:
 
 ### 1 - Crie uma função usando o operador &&
 
