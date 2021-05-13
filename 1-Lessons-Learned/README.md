@@ -1,7 +1,10 @@
 # Projeto Lessons Learned!
 
-Você já usa o GitHub diariamente para desenvolver os exercícios, certo? Agora, para desenvolver os projetos, você deverá seguir as instruções a seguir.
----
+# Você irá praticar as Habilidades em: 
+
+* Utiizar _HTML_ para construir páginas WEB.
+* Utilizar _HTML_ semântico para tornar sua página mais acessível e melhor ranqueada.
+* Utilizar _CSS_ para adicionar estilo e posicionar elementos.
 
 ### 1. Adicione uma cor de fundo específica para a página
 
