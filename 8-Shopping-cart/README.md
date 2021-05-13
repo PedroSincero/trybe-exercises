@@ -1,4 +1,4 @@
-# Projeto Página de ES6 e Higher Order Functions!
+# Projeto Carrinho de Compras!
 
 # Você irá praticar as Habilidades em: 
 
