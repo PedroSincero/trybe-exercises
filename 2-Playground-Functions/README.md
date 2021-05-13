@@ -13,6 +13,8 @@
 - Utilizar o comando for/in ;
 - Utilizar funções para organizar e estruturar o seu código;
 
+# Desafios
+
 ### 1 - Crie uma função usando o operador &&
 
 JavaScript possui um operador lógico `&&`, o qual recebe dois valores e retorna `true` se ambos os valores são verdadeiros, e retorna `false` se algum dos valores não o for.
