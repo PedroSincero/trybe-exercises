@@ -9,4 +9,5 @@ const store = createStore(rootReducer, compose(extension));
 
 export default store;
 
-// Versão Mais Atualizada >  const extension = window.devToolsExtension() || ((f) => f);
+// Versão Mais Atualizada >  
+// const extension = window.devToolsExtension() || ((f) => f);
