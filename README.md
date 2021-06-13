@@ -17,4 +17,9 @@
 - [x] RTL - Mocks e Inputs
 - [x] RTL - Testando React Router
 
-##### Bloco 16: Gerenciamento de estado com Redux
+##### Bloco 16: Gerenciamento de estado com Redux ✔️
+- [x] Introdução ao Redux
+- [x] Usando o Redux no React
+- [x] Usando o Redux no React - Pratica
+- [x] Redux no React - Actions Assíncronas
+- [x] Testes em React-Redux
