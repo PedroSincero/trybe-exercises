@@ -23,3 +23,8 @@
 - [x] Usando o Redux no React - Pratica
 - [x] Redux no React - Actions Assíncronas
 - [x] Testes em React-Redux
+
+#### Bloco 18: Context API e React Hooks ✔️
+- [x] Context API do React
+- [x] React Hooks - use State e useContext
+- [x] React Hooks - useEffect e Hooks customizados
